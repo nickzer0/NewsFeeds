@@ -8,7 +8,6 @@
         <outline text="Blogs" title="Blogs">
             <outline type="rss" text="Boku" title="Boku" xmlUrl="https://0xboku.com/feed.xml" htmlUrl="https://0xboku.com/"/>
             <outline type="rss" text="eXploit" title="eXploit" xmlUrl="https://exploit.ph/feeds/all.atom.xml" htmlUrl="https://exploit.ph/"/>
-            <outline type="rss" text="Gigamon Blog" title="Gigamon Blog" xmlUrl="https://blog.gigamon.com/feed/" htmlUrl="https://blog.gigamon.com"/>
             <outline type="rss" text="Byt3bl33der" title="Byt3bl33der" xmlUrl="https://byt3bl33d3r.substack.com/feed/" htmlUrl="https://byt3bl33d3r.substack.com"/>
             <outline type="rss" text="bohops" title="bohops" xmlUrl="https://bohops.com/feed/" htmlUrl="https://bohops.com"/>
             <outline type="rss" text="PT SWARM" title="PT SWARM" xmlUrl="https://swarm.ptsecurity.com/feed/" htmlUrl="https://swarm.ptsecurity.com"/>
@@ -28,11 +27,12 @@
             <outline type="rss" text="Good Workaround!" title="Good Workaround!" xmlUrl="https://goodworkaround.com/feed/" htmlUrl="https://goodworkaround.com"/>
             <outline type="rss" text="Binary Ninja" title="Binary Ninja" xmlUrl="https://binary.ninja/feed.xml" htmlUrl="https://binary.ninja/"/>
             <outline type="rss" text="Penetration Testing Lab" title="Penetration Testing Lab" xmlUrl="http://pentestlab.wordpress.com/feed/" htmlUrl="https://pentestlab.blog"/>
-            <outline type="rss" xmlUrl="https://www.matteomalvica.com/index.xml" htmlUrl="https://www.matteomalvica.com/"/>
+            <outline type="rss" text="Matteo Malvica" title="Matteo Malvica" xmlUrl="https://www.matteomalvica.com/index.xml" htmlUrl="https://www.matteomalvica.com/"/>
             <outline type="rss" text="XPN Blog" title="XPN Blog" xmlUrl="https://blog.xpnsec.com/rss.xml" htmlUrl="https://blog.xpnsec.com/"/>
             <outline type="rss" text="Thoughts on Security" title="Thoughts on Security" xmlUrl="http://www.scriptjunkie.us/feed/" htmlUrl="https://www.scriptjunkie.us"/>
             <outline type="rss" text="csandker.io" title="csandker.io" xmlUrl="https://csandker.io/feed.xml" htmlUrl="https://csandker.io//"/>
             <outline type="rss" text="Rhino Security Labs" title="Rhino Security Labs" xmlUrl="https://rhinosecuritylabs.com/blog/feed/" htmlUrl="https://rhinosecuritylabs.com"/>
+            <outline type="rss" text="Hakin9" title="Hakin9" xmlUrl="http://hakin9.org/feed/" htmlUrl="https://hakin9.org"/>
             <outline type="rss" text="Alice Climent-Pommeret" title="Alice Climent-Pommeret" xmlUrl="https://alice.climent-pommeret.red/index.xml" htmlUrl="https://alice.climent-pommeret.red/"/>
             <outline type="rss" text="WhyNotSecurity" title="WhyNotSecurity" xmlUrl="https://whynotsecurity.com/feed.xml" htmlUrl="https://whynotsecurity.com/"/>
             <outline type="rss" text="Franky's WebSite" title="Franky's WebSite" xmlUrl="https://www.bussink.net/feed/" htmlUrl="https://www.bussink.net"/>
