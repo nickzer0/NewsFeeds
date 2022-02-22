@@ -78,6 +78,7 @@
             <outline type="rss" text="The Subtlety" title="The Subtlety" xmlUrl="https://www.thesubtlety.com/index.xml" htmlUrl="https://www.thesubtlety.com/"/>
             <outline type="rss" text="Hack.Learn.Share" title="Hack.Learn.Share" xmlUrl="https://captmeelo.com/feed.xml" htmlUrl="https://capt-meelo.github.io//"/>
             <outline type="rss" text="Zetter" title="Zetter" xmlUrl="https://zetter.substack.com/feed/" htmlUrl="https://zetter.substack.com"/>
+            <outline type="rss" text="Bad Sector" title="Bad Section" xmlUrl="https://blog.badsectorlabs.com/feeds/all.atom.xml" html="https://blog.badsectorlabs.com"/>
         </outline>
     </body>
 </opml>
