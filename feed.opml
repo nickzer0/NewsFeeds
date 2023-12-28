@@ -74,7 +74,7 @@
             <outline type="rss" text="Black Hills Information Security" title="Black Hills Information Security" xmlUrl="https://www.blackhillsinfosec.com/feed/" htmlUrl="https://www.blackhillsinfosec.com"/>
             <outline type="rss" text="tbhaxor" title="tbhaxor" xmlUrl="https://tbhaxor.com/rss/" htmlUrl="https://tbhaxor.com/"/>
             <outline type="rss" text="Mandiant" title="Mandiant" xmlUrl="https://www.mandiant.com/resources/rss.xml/article_blog" htmlUrl="https://www.mandiant.com/"/>
-            <outline type="rss" text="code white | Blog" title="code white | Blog" xmlUrl="http://codewhitesec.blogspot.com/feeds/posts/default" htmlUrl="https://codewhitesec.blogspot.com/"/>
+            <outline type="rss" text="code white | Blog" title="code white | Blog" xmlUrl="https://code-white.com/blog/index.xml" htmlUrl="https://code-white.com/blog/"/>
             <outline type="rss" text="The Subtlety" title="The Subtlety" xmlUrl="https://www.thesubtlety.com/index.xml" htmlUrl="https://www.thesubtlety.com/"/>
             <outline type="rss" text="Hack.Learn.Share" title="Hack.Learn.Share" xmlUrl="https://captmeelo.com/feed.xml" htmlUrl="https://capt-meelo.github.io//"/>
             <outline type="rss" text="Zetter" title="Zetter" xmlUrl="https://zetter.substack.com/feed/" htmlUrl="https://zetter.substack.com"/>
