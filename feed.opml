@@ -43,7 +43,7 @@
             <outline type="rss" text="jmp esp" title="jmp esp" xmlUrl="https://jmpesp.me/rss/" htmlUrl="https://jmpesp.me/"/>
             <outline type="rss" text="TrustedSec" title="TrustedSec" xmlUrl="https://www.trustedsec.com/feed/" htmlUrl="https://www.trustedsec.com"/>
             <outline type="rss" text="SolomonSklash.io" title="SolomonSklash.io" xmlUrl="https://www.solomonsklash.io/feeds/all.atom.xml" htmlUrl="https://www.solomonsklash.io/"/>
-            <outline type="rss" text="Signal Labs" title="Signal Labs" xmlUrl="https://www.signal-labs.com/blog?format=rss" htmlUrl="https://www.signal-labs.com/blog/"/>
+            <outline type="rss" text="Signal Labs" title="Signal Labs" xmlUrl="https://signal-labs.com/feed/" htmlUrl="https://www.signal-labs.com/blog/"/>
             <outline type="rss" text="Ex Android Dev" title="Ex Android Dev" xmlUrl="https://www.exandroid.dev/atom.xml" htmlUrl="https://www.exandroid.dev/"/>
             <outline type="rss" text="Outflank Blog" title="Outflank Blog" xmlUrl="https://outflank.nl/blog/feed/" htmlUrl="https://outflank.nl/blog"/>
             <outline type="rss" text="CrowdStrike Blog" title="CrowdStrike Blog" xmlUrl="https://www.crowdstrike.com/blog/category/threat-intel-research/feed/" htmlUrl="https://www.crowdstrike.com"/>
