@@ -46,7 +46,7 @@
             <outline type="rss" text="Signal Labs" title="Signal Labs" xmlUrl="https://www.signal-labs.com/blog?format=rss" htmlUrl="https://www.signal-labs.com/blog/"/>
             <outline type="rss" text="Ex Android Dev" title="Ex Android Dev" xmlUrl="https://www.exandroid.dev/atom.xml" htmlUrl="https://www.exandroid.dev/"/>
             <outline type="rss" text="Outflank Blog" title="Outflank Blog" xmlUrl="https://outflank.nl/blog/feed/" htmlUrl="https://outflank.nl/blog"/>
-            <outline type="rss" text="CrowdStrike Blog" title="CrowdStrike Blog" xmlUrl="https://www.crowdstrike.com/blog/category/threat-intel-research/feed/" htmlUrl="https://www.crowdstrike.com"/>
+            <outline type="rss" text="CrowdStrike Blog" title="CrowdStrike Blog" xmlUrl="https://www.crowdstrike.com/blog/feed" htmlUrl="https://www.crowdstrike.com"/>
             <outline type="rss" text="Pentest Blog" title="Pentest Blog" xmlUrl="https://pentest.blog/feed/" htmlUrl="https://pentest.blog"/>
             <outline type="rss" text="Rasta Mouse" title="Rasta Mouse" xmlUrl="https://rastamouse.me/feed/" htmlUrl="https://rastamouse.me"/>
             <outline type="rss" text="Security Research" title="Security Research" xmlUrl="https://mrd0x.com/rss.xml" htmlUrl="https://mrd0x.com"/>
